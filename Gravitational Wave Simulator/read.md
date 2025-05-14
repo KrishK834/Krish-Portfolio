@@ -17,7 +17,7 @@ A GUI tool to simulate and visualize gravitational wave signals from binary merg
 - Python 3.x
 - numpy
 - matplotlib
-- tkinter (usually included with Python)
+- tkinter
 
 ## Usage
 
